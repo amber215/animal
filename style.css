@@ -1,0 +1,25 @@
+ body{
+	color:Purple;
+	font-font-family:Georgia;
+	width: 644px;
+	margin: auto;
+
+}
+nav{
+padding-top:150px
+background-image:url('https://images.sciencedaily.com/2016/03/160322133822_1_900x600.jpg);https://images.sciencedaily.com/2016/03/160322133822_1_900x600.jpg');
+background-size:cover;
+background-color:pink;
+}
+nav{
+	padding:25px;
+	text-align: center;
+}
+nav a{
+	text-indent: 25px;
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	margin: 0 8px; 
+}
+
